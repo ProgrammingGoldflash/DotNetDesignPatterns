@@ -1,6 +1,10 @@
 # DotNetDesignPatterns
 
+<br>
+
 ## The SOLID Design Principles
+
+<br>
 
 ### Single Responsibility Principle
 
